@@ -5,7 +5,7 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Estudiante+de+Informática;Desarollador+Frontend" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%F73700F&size=32&center=true&vCenter=true&width=600&height=50&lines=Estudiante+de+Informática;Desarollador+Frontend" alt="Headline" />
     </div>
 
 </div>
@@ -18,6 +18,8 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+    
 </span>
 
 <h4> Desarollo Backend </h4>
@@ -28,7 +30,7 @@
 
 <h4> Herramientas de software </h4>
 <span>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
     <img src="https://img.shields.io/badge/PYTHON-1572B6?style=for-the-badge&logo=python&logoColor=white">
 </span>
 
