@@ -32,7 +32,7 @@
 <h4> Herramientas de software </h4>
 <span>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
-    <img src="https://img.shields.io/badge/PYTHON-1572B6?style=for-the-badge&logo=python&logoColor=white">
+
 </span>
 
 
