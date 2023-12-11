@@ -20,4 +20,16 @@
     <img src="https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=react&logoColor=white">
 </span>
 
+<h4> Desarollo Backend </h4>
+<span>
+    <img src="https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/PYTHON-1572B6?style=for-the-badge&logo=python&logoColor=white">
+</span>
+
+<h4> Herramientas de software </h4>
+<span>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
+    <img src="https://img.shields.io/badge/PYTHON-1572B6?style=for-the-badge&logo=python&logoColor=white">
+</span>
+
 
