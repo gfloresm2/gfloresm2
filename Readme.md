@@ -36,3 +36,17 @@
 </span>
 
 
+
+## Proyectos :arrow_down:
+
+
+[API Countries](https://api-countries-rho.vercel.app/) 
+
+
+
+## Mis certificaciones :arrow_down:
+
+<!-- 
+[Red Hat Certified System Administrator](https://drive.google.com/file/d/13EaKphJ3zC1vn1q-nevF6YoJuit_aeik/view?usp=sharing) 
+==>
+
