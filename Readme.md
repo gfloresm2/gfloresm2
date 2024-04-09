@@ -25,8 +25,7 @@
 
 <h4> Desarollo Backend </h4>
 <span>
-    <img src="https://img.shields.io/badge/PHP-E34F26?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/PYTHON-1572B6?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=python&logoColor=white">
 </span>
 
 <h4> Herramientas de software </h4>
