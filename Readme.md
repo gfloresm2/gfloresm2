@@ -29,11 +29,16 @@
 </span>
 
 <h4> Herramientas de software </h4>
+<!-- <span>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
+</span> 
+-->
+
 <span>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
-
+    <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </span>
-
 
 
 ## Proyectos :arrow_down:
