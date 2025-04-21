@@ -26,18 +26,18 @@
 <h4> Desarollo Backend </h4>
 <span>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+</span>
+
+<h4> Desarollo Móvil </h4>
+<span>
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
 </span>
 
 <h4> Herramientas de software </h4>
-<!-- <span>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
-</span> 
--->
-
 <span>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">    
     <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </span>
 
 
